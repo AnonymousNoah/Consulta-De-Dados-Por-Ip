@@ -5,8 +5,13 @@
   
 #Comandos 
 apt update && apt upgrade -y
+  
 apt install git -y
-git clone 
-cd ipinfo
-sh install.sh
-python3 ipinfo.py
+
+  git clone 
+
+  cd ipinfo
+
+  sh install.sh
+
+  python3 ipinfo.py
