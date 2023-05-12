@@ -8,7 +8,7 @@ apt update && apt upgrade -y
   
 apt install git -y
 
-  git clone 
+  git clone https://github.com/AnonymousNoah/Consulta-De-Dados-Por-Ip
 
   cd ipinfo
 
